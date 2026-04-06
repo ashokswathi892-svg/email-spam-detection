@@ -1,5 +1,6 @@
  📧 Email Spam Detection System
-
+ 🔗 Live Project: https://github.com/ashokswathi892-svg/email-spam-detection
+ 
 🚀 Project Overview
 This project is a Machine Learning-based Email Spam Detection System that classifies messages as Spam or Not Spam (Ham) using Natural Language Processing (NLP).
 
